@@ -11,7 +11,7 @@ Neste desafio, você deverá criar um script em Python que realize requisições
 ## Estrutura da API
 
 ### Endpoint do Desafio
-- URL: `/challenges/loop`
+- URL: `api.wagnerloch.com.br/challenges/loop`
 - Método: POST
 - Headers necessários: 
   - `Authorization: Bearer seu-token`
