@@ -18,7 +18,7 @@ Neste desafio, você deverá criar um script em Python que realize requisições
 - Body da requisição:
   ```json
   {
-    "maxIterations": numero_maximo_de_iteracoes
+    "maxIterations": 10
   }
   ```
 
